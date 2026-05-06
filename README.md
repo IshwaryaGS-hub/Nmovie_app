@@ -1,16 +1,19 @@
-# React + Vite
+### Netflix Clone ###
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive Netflix-inspired web application built using React and Vite. Browse trending movies, search for your favorites, and manage personalized watchlists with an intuitive and sleek UI powered by the TMDB API.
 
-Currently, two official plugins are available:
+### Features ###
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Trending Movies – Discover the latest and most popular films
+Movie Search – Real-time search by title
+Detailed Movie Pages – View ratings, overview, and movie info
+Favorites & Watch Later – Save and manage your movie lists
+Responsive Design – Works seamlessly on mobile & desktop
+User Profile – Personalized experience
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack ## 
+Frontend: React (v19), React Router DOM
+Build Tool: Vite
+API: TMDB
+HTTP Client: Axios
+Styling: CSS Modules
