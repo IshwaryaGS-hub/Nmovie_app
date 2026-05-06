@@ -17,3 +17,5 @@ Build Tool: Vite
 API: TMDB
 HTTP Client: Axios
 Styling: CSS Modules
+
+Check out - https://nmovieapp.netlify.app/
